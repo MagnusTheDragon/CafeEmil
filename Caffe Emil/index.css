@@ -1,0 +1,100 @@
+/* index */
+
+:root {
+
+            /* Normal */
+        --button-List-Text-color: rgba(255, 255, 255, 0.562);
+        --button-List-Background-color: #000000c9;
+        --button-list-corner: 1px;
+            /* Hover */
+        --button-List-Hover-color: #000000dc;
+        --button-List-Hover-Text: rgb(255, 255, 255);
+        --button-Hover-Time-Delay: 0.3s;
+    
+    }
+
+
+.intro-box-div {
+    display: flex;
+  }
+  
+.intro-box{
+    flex: 1;
+    height: 500px;
+    text-align: center;
+    background-color: lightgray;
+    position: absolute;
+}
+
+@media only screen and (min-width: 600px) {
+    .intro-box{
+        flex: 1;
+        padding: 20px;
+        margin: 10px;
+        height: 1000px;
+        text-align: center;
+        background-color: lightgray;
+        position: relative;
+    }
+}
+
+
+
+
+
+.introbox1 {
+    background-color: unset;
+}
+.introbox2 {
+    background-color: unset;
+}
+.introbox2 h1{
+    text-align: justify;
+}
+
+.introbox3 {
+    background-color: unset;
+}
+.intro-box-2-div {
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+  .intro-box-2-center-button {
+    display:-ms-flexbox;
+    position: absolute;
+    bottom: 10%;
+    transform: translateX(-50%);
+    text-decoration: none;
+    color: var(--button-List-Text-color);
+    background-color: var(--button-List-Background-color);
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    
+
+}
+.intro-box-2-center-button:hover {
+    color: var(--button-List-Hover-Text);
+    background-color: var(--button-List-Hover-color);
+    transition: background-color var(--button-Hover-Time-Delay) ease-in-out;
+    transition: color var(--button-Hover-Time-Delay) ease-in-out;
+}
+
+
+.intro-box:nth-child(1) {
+    background-image: url('img/Stemningsbilleder/rund-cafe-sofa1.jpg');
+    background-size: cover;
+  }
+  
+  .intro-box:nth-child(2) {
+    background-image: url('img/Mad/bøfogvin.jpg');
+    background-size: cover;
+  }
+  
+  .intro-box:nth-child(3) {
+    background-image: url('img/Mad/ChokoKage.jpg');
+    background-size: cover;
+  }

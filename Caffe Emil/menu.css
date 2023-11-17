@@ -1,0 +1,53 @@
+/* Menu */
+
+
+.menu-titel {
+    display: flex;
+  }
+  
+  .menu-center {
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    background-color: rgba(240, 240, 240, 0.767);
+    
+  }
+  
+  div .title .info {
+    display: flex;
+    
+  }
+
+.moto-menu {
+    font-weight: bold;
+}
+
+.menu-liste {
+    display: flex;
+  }
+  
+  .menu-left {
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    text-align: left;
+    background-color: rgba(240, 240, 240, 0.767);
+  }
+  
+  .menu-right {
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    text-align: left;
+    background-color: rgba(240, 240, 240, 0.767);
+  }
+
+
+
+
+
+  div .title .info {
+    display: flex;
+    
+  }

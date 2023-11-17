@@ -1,0 +1,38 @@
+/* index */
+
+.findmap {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 900px;
+    margin-left: -2186px;
+    
+}
+.socials {
+     padding-top: 6%;
+} 
+
+
+.socials-container {
+    
+    display: inline;
+    justify-content: flex-end;
+    margin-right: 21px;
+    margin-left: 500px;
+    padding-top: 20px;
+
+  }
+  
+  .socials-container img {
+ 
+    margin-right: 10px;
+
+    height: 20px;
+
+  }
+.socials-container a {
+    
+    margin: 8px;
+}
+
+

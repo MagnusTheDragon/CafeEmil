@@ -1,0 +1,30 @@
+
+
+HTML/CSS/JS Website
+Der skal være følgende sider med indhold på websitet:
+			o Forside
+			o Menu
+			o Find os
+			o Bordbestilling
+Opgave: Café Emil
+GF1 // CENTER FOR MEDIE & KOMMUNIKATION
+Der skal være links til deres social media ikoner – Facebook, Instagram, linkedIn
+Siden skal så vist muligt være responsiv og kunne vises på både mobil og desktop
+Afleveres som link fra Netlify Drop
+¨
+
+
+
+Ud over de obligatorisk opgaver skal du vælge min. en af følgende opgaver
+Der er følgende opgaver, som kan udføres uanset uddannelsesvalg:
+      x	 Menu-kort
+	 Drinkskort
+	 Neon facadeskilt i 3D eller 2D
+	 Indendørs skiltning (Toiletter, bar, andet)
+	 A-skilt med menukort til udendørs
+	 3D modeller af mindre ting, såsom kopper, tallerkner, lamper m.m.
+	 Digital banner til Spinderiet (Indkøbscenter ved siden af)
+		Format: 1080×1920 px - Video format: H.264 in .mp4
+	 A5 Reklame flyer med et godt tilbud
+	 Merchandise f.eks. badges, kopper eller lign.
+	 App til bordbestilling og menukort
